@@ -10,7 +10,7 @@ import threading
 
 # CHECKING SYSTEM -- IF IT'S FIRST TIME LAUNCH --> INSTALL NEEDED LIBS
 
-bashCommand = "pip install python-vlc | pip install pafy | pip install youtube_dl | pip install requests"
+bashCommand = "pip install python-vlc | pip install pafy | pip install youtube_dl | pip install requests | pip install thread6"
 
 with open('settings.txt','r+') as f:
     for data in f:
