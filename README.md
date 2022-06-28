@@ -1,4 +1,4 @@
-# python-youtube-player
+# python-youtube-music-player
 
 Just a simple, easy and free to use youtube player.
 You must have Python and pip installed on your computer (pip must be in your PATH variables)
